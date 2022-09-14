@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-13T23:04:48 COT" name="Default suite" finished-at="2022-09-13T23:05:07 COT" duration-ms="18723">
+    <groups>
+    </groups>
+    <test started-at="2022-09-13T23:04:48 COT" name="Default test" finished-at="2022-09-13T23:05:07 COT" duration-ms="18723">
+      <class name="pe.com.galaxy.Tarea1">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pe.com.galaxy.Tarea1@543295b0]" started-at="2022-09-13T23:04:48 COT" name="setUp" finished-at="2022-09-13T23:05:00 COT" duration-ms="11856" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Tarea()[pri:0, instance:pe.com.galaxy.Tarea1@543295b0]" started-at="2022-09-13T23:05:00 COT" name="Tarea" finished-at="2022-09-13T23:05:07 COT" duration-ms="6825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tarea -->
+        <test-method is-config="true" signature="teardDown(org.testng.ITestResult)[pri:0, instance:pe.com.galaxy.Tarea1@543295b0]" started-at="2022-09-13T23:05:07 COT" name="teardDown" finished-at="2022-09-13T23:05:07 COT" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Tarea status=SUCCESS method=Tarea1.Tarea()[pri:0, instance:pe.com.galaxy.Tarea1@543295b0] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardDown -->
+      </class> <!-- pe.com.galaxy.Tarea1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
